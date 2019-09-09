@@ -1,4 +1,4 @@
-package com.cognizant.tao.cloud;
+package com.demo.tao.cloud;
 
 import java.util.function.Function;
 
